@@ -5,9 +5,9 @@
 imu: 1         
 num_of_cam: 2  
 
-imu_topic: "/mynteye/imu/data_raw"
-image0_topic: "/mynteye/left/image_raw"
-image1_topic: "/mynteye/right/image_raw"
+imu_topic: "/imu"
+image0_topic: "/left"
+image1_topic: "/right"
 output_path: "/home/tong/output/"
 
 cam0_calib: "left_mei.yaml"

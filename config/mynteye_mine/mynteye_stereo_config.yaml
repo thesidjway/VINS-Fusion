@@ -10,8 +10,8 @@ image0_topic: "/left"
 image1_topic: "/right"
 output_path: "/home/tong/output/"
 
-cam0_calib: "left_mei.yaml"
-cam1_calib: "right_mei.yaml"
+cam0_calib: "cam0_pinhole.yaml"
+cam1_calib: "cam1_pinhole.yaml"
 image_width: 752
 image_height: 480
    
